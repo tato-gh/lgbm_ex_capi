@@ -62,10 +62,3 @@ def deps do
   ]
 end
 ```
-
-**Config**
-
-```elixir
-config :lgbm_ex_capi, lightgbm_cmd: Path.join(System.get_env("LIGHTGBM_DIR"), "lightgbm")
-```
-
