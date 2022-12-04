@@ -1,6 +1,6 @@
 defmodule LGBMExCapi do
   @moduledoc """
-  Documentation for `LGBMExCapi`.
+  LGBMExCapi is a wrapper library for microsoft/LightGBM.
   """
 
   alias LGBMExCapi.Interface
